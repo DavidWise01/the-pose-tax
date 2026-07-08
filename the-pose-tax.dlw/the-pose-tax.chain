@@ -4,6 +4,6 @@ slug  : the-pose-tax
 seal  : 0e02fadae4cd15700be8ab279fb0c5948ba0db3f3538bb99a0f3911936a1894d
 prev  : 84af4482a112ae685db62f1428c15928d7f7a868e84d797e3a2b438fa4b8aac1
 link  : 95832488dd253b99982f928111c86ccddca737ad8f401acbdc20f4de4f68fe41
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
